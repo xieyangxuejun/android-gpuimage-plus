@@ -53,6 +53,8 @@
         <activity
             android:name=".FaceTrackingDemoActivity"
             android:label="@string/title_activity_face_tracker_demo" />
+        <activity
+            android:name=".TextureViewPlayerDemoActivity" />
     </application>
 
 </manifest>

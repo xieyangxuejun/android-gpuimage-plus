@@ -185,7 +185,8 @@ public class MainActivity extends AppCompatActivity {
             new DemoClassDescription("SimplePlayerDemoActivity", "Simple Player Demo"),
             new DemoClassDescription("VideoPlayerDemoActivity", "Video Player Demo"),
             new DemoClassDescription("FaceTrackingDemoActivity", "Face Tracking Demo"),
-            new DemoClassDescription("TestCaseActivity", "Test Cases")
+            new DemoClassDescription("TestCaseActivity", "Test Cases"),
+            new DemoClassDescription("TextureViewPlayerDemoActivity", "TextureView")
     };
 
     public class DemoButton extends Button implements View.OnClickListener {
